@@ -1,3 +1,5 @@
 this is a sample file we will play with to demonstrate some of the git functionality.
 
 i am going to stash this change.
+
+this is a change that I want to commit
