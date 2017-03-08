@@ -3,3 +3,9 @@ this is a sample file we will play with to demonstrate some of the git functiona
 i am going to stash this change.
 
 I'm going to tag this release
+
+commit 1
+
+commit 2
+
+commit 3
