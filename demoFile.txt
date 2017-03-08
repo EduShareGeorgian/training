@@ -3,3 +3,10 @@ this is a sample file we will play with to demonstrate some of the git functiona
 i am going to stash this change.
 
 this is a change that I want to commit
+
+
+these changes are in the wrong branch
+
+this is another commit
+
+a new commit
